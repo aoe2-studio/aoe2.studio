@@ -1,20 +1,8 @@
 {
   "name": "aoe2-studio",
-  "type": "module",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
-  },
+  "private": true,
+  "scripts": {},
   "dependencies": {
-    "@astrojs/mdx": "^4.0.2",
-    "@astrojs/rss": "^4.0.10",
-    "@astrojs/sitemap": "^3.2.1",
-    "astro": "^5.0.5"
-  },
-  "devDependencies": {
     "prettier-plugin-jsdoc": "^1.3.0",
     "prettier-plugin-organize-imports": "^4.1.0"
   }
